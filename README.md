@@ -5,3 +5,37 @@ Binary Search Tree Projesi
 
 ##root = 7  Sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar bulunacak.
 
+##                                                              7       
+
+                                                             
+##                                                      5               8
+                                                                 
+                                                                   
+                                                          
+##                                                1            6             9
+                                                              
+                                                       
+
+                                           
+##                                           0            3
+
+                                                                      
+                                                    
+##                                                   2          4
+                                                     
+                                                                                                       
+                                                     
+                                                  
+                                                     
+##Tree'ye eleman eklemek istediğimizde root'dan başlıyoruz. 5, 7'den küçük olduğundan soluna ekledik. 1, 5 ve 7'den küçük olduğundan soluna ekledik.8, 7'den büyük
+##olduğundan sağına ekledik. Her bir sayı için aynı komutları verdik.
+                                                  
+                                                    
+                                                    
+                                                    
+                                                       
+   
+   
+   
+   
+
