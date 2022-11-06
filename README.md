@@ -31,7 +31,7 @@ Binary Search Tree Projesi
 ##olduğundan sağına ekledik. Her bir sayı için aynı komutları verdik.
                                                   
                                                     
-                                                    
+##Patika.dev](https://www.patika.dev/tr)                                                    
                                                     
                                                        
    
